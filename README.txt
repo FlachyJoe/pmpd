@@ -1,3 +1,6 @@
+Initial Author : Cyrille Henry
+Ref : http://recherche.ircam.fr/equipes/repmus/SMC04/scm04actes/P47.pdf
+
 pmpd is a collection of objects for pd.  These objects provide real-time  simulations, specially 
 physical behaviors. pmpd can be used to create natural dynamic systems, like a bouncing ball, 
 string movement, Brownian movement, chaos,  fluid dynamics, sand, gravitation, and more. It can 
